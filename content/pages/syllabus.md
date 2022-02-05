@@ -49,12 +49,65 @@ Evaluation / Grades
       
     Final grades will be based upon a traditional ten-point scale. Students are not in competition with each other; each student will receive the grade she or he earns.
 
-| GRADES | POINTS |
-| --- | --- |
-| A | 90-100 |
-| B | 80-89 |
-| C | 70-79 |
-| D | 60-69 |
-| E | 0-59 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+GRADES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A
+{{< tdclose >}}
+{{< tdopen >}}
+90-100
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B
+{{< tdclose >}}
+{{< tdopen >}}
+80-89
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+70-79
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+D
+{{< tdclose >}}
+{{< tdopen >}}
+60-69
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E
+{{< tdclose >}}
+{{< tdopen >}}
+0-59
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 This is NOT a course where you can learn the material by yourself, show up in class occasionally and do well on tests. You must watch the video episodes regularly in the language lab (they are not available anywhere in writing), you must prepare the audio exercises regularly and you must come to class faithfully. The classroom is the only place where most students can speak in Spanish on a regular basis with other live humans; this is absolutely necessary for progress in understanding and speaking Spanish. It is also the only way you can assimilate the increasingly complex language material and plot of the video material. Since it is extremely tough to CATCH UP or MAKE UP, you have to KEEP UP.
